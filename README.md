@@ -2,6 +2,8 @@
 
 <p align="center">
   <em>生产级手写体合成引擎 — 从笔画骨架出发，沿物理运动轨迹书写</em>
+  <br>
+  <sub>来自「<strong>手写如真</strong>」微信小程序的生产内核 · <a href="#与手写如真完整版的区别">了解完整版 →</a></sub>
 </p>
 
 <p align="center">
@@ -24,19 +26,13 @@
 
 > 以下为引擎直接输出，无后期处理。
 
-| A4 横线纸 | 笔记本白纸 |
+| 笔记本横线纸（HD） | 白纸 + 方格纸 |
 |:---:|:---:|
-| ![A4 横线纸](docs/images/demo-a4-lined.png) | ![白纸](docs/images/demo-a4-plain.png) |
+| [![笔记本横线纸](docs/images/demo-notebook-lined.jpg)](docs/images/demo-notebook-lined.jpg) | <img src="docs/images/demo-a4-plain.jpg" width="260"><br><img src="docs/images/demo-a4-grid.jpg" width="260"> |
 
-| 方格作文纸 | 涂改模拟 |
-|:---:|:---:|
-| ![方格纸](docs/images/demo-a4-grid.png) | ![涂改](docs/images/scribble-demo.png) |
+**涂改模拟**
 
-**真人 vs 合成**（你能分出哪个是真人写的吗？）
-
-| 真人书写 | 引擎合成 |
-|:---:|:---:|
-| ![真人]() | ![合成]() |
+![涂改模拟](docs/images/demo-scribble.jpg)
 
 ---
 
