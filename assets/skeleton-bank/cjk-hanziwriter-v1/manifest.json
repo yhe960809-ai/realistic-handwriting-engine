@@ -1,0 +1,56 @@
+{
+  "schema_version": "skeleton-bank-v1",
+  "bank_id": "cjk-hanziwriter-v1",
+  "built_at": "2026-08-23T07:03:20Z",
+  "source": {
+    "name": "hanzi-writer-data",
+    "version": "2.0.1",
+    "registry": "https://registry.npmjs.org/hanzi-writer-data/-/hanzi-writer-data-2.0.1.tgz",
+    "upstream": "https://github.com/skishore/makemeahanzi",
+    "license": "ARPHIC PUBLIC LICENSE",
+    "license_file": "ARPHICPL.TXT",
+    "notice": "字形数据源自文鼎公众授权字型；本库仅提取笔画中线用于轨迹合成，未修改或再分发原字型文件。"
+  },
+  "coordinate_system": {
+    "origin": "top-left",
+    "y_axis": "down",
+    "range": [
+      0.0,
+      1.0
+    ],
+    "em_units": 1024.0,
+    "y_top": 900.0
+  },
+  "points_per_stroke": 24,
+  "character_count": 9574,
+  "stroke_count": 112617,
+  "skipped_count": 0,
+  "stroke_type_histogram": {
+    "heng": 29198,
+    "shu-chuilu": 19553,
+    "shu-xuanzhen": 232,
+    "pie": 15748,
+    "na": 6762,
+    "dian": 17555,
+    "ti": 1267,
+    "zhe": 10115,
+    "gou": 6251,
+    "zhe-gou": 5668,
+    "wan": 268
+  },
+  "structure_histogram": {
+    "tb": 2460,
+    "single": 3430,
+    "lr": 3684
+  },
+  "files": {
+    "strokes.npz": {
+      "bytes": 19142295,
+      "sha256": "7b49cb21023a7471080f71f60b70241d10622b796253ae3bbe4e5ecae510cdab"
+    },
+    "index.json": {
+      "bytes": 1371740,
+      "sha256": "8376ecec9bfe2f488e4b60363b26f3a0f688c926a045709b5414c887ae15c036"
+    }
+  }
+}

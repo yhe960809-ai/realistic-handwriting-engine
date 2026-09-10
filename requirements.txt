@@ -1,0 +1,6 @@
+numpy>=1.26.0
+pillow>=12.3.0,<13
+handrightbeta==8.7.0
+reportlab>=4.0.0
+fonttools>=4.0.0
+pytest>=8.0.0

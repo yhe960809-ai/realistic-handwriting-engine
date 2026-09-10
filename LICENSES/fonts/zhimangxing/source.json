@@ -1,0 +1,16 @@
+{
+  "id": "zhimangxing",
+  "display_name": "智忙星",
+  "style_label": "行书",
+  "upstream": "https://github.com/googlefonts/zhimangxing",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/zhimangxing/OFL.txt",
+  "version": "2.001",
+  "download_date": "2026-08-14",
+  "sha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+  "file": "assets/fonts/files/zhimangxing.ttf",
+  "provenance": "官方 GitHub 仓库发布版 TTF，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": false,
+  "status": "pending"
+}

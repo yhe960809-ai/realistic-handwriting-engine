@@ -1,0 +1,17 @@
+{
+  "id": "plangothic-p2",
+  "display_name": "遍黑体 P2",
+  "style_label": "扩展区兜底",
+  "upstream": "https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/plangothic-p2/OFL.txt",
+  "version": "2.9.5792",
+  "download_date": "2026-08-29",
+  "sha256": "3ab368be64602826e82622658ef36bc59248f2432169a77d614832f9cba1c0c9",
+  "file": "assets/fonts/files/plangothic-p2.ttf",
+  "provenance": "官方 GitHub Release V2.9.5792 的 PlangothicP2-Regular.ttf，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": false,
+  "status": "approved",
+  "use": ["stamp"]
+}

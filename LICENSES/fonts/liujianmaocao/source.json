@@ -1,0 +1,16 @@
+{
+  "id": "liujianmaocao",
+  "display_name": "柳建茂草书",
+  "style_label": "草书",
+  "upstream": "https://github.com/googlefonts/liujianmaocao",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/liujianmaocao/OFL.txt",
+  "version": "1.003",
+  "download_date": "2026-08-14",
+  "sha256": "cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033",
+  "file": "assets/fonts/files/liujianmaocao.ttf",
+  "provenance": "官方 GitHub 仓库发布版 TTF，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": false,
+  "status": "pending"
+}

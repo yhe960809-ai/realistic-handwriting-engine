@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.eggs/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+build/
+dist/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Assets
+# 字体文件较大，开源版只放 manifest，不放二进制字体
+assets/fonts/files/*.ttf
+assets/fonts/files/*.otf
+assets/fonts/files/*.ttc
+
+# Output
+*.png
+*.jpg
+*.pdf
+*.zip
+out/
+output/

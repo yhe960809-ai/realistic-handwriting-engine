@@ -1,0 +1,16 @@
+{
+  "id": "mashanzheng",
+  "display_name": "马善政毛笔楷书",
+  "style_label": "毛笔",
+  "upstream": "https://github.com/googlefonts/mashanzheng",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/mashanzheng/OFL.txt",
+  "version": "2.003",
+  "download_date": "2026-08-14",
+  "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+  "file": "assets/fonts/files/mashanzheng.ttf",
+  "provenance": "官方 GitHub 仓库发布版 TTF，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": false,
+  "status": "approved"
+}

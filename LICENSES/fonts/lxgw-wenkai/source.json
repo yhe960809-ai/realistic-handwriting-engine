@@ -1,0 +1,16 @@
+{
+  "id": "lxgw-wenkai",
+  "display_name": "霞鹜文楷",
+  "style_label": "清秀",
+  "upstream": "https://github.com/lxgw/LxgwWenKai",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/lxgw-wenkai/OFL.txt",
+  "version": "1.522",
+  "download_date": "2026-08-14",
+  "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+  "file": "assets/fonts/files/lxgw-wenkai.ttf",
+  "provenance": "官方 GitHub 仓库发布版 TTF，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": true,
+  "status": "approved"
+}

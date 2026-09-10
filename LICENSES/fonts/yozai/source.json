@@ -1,0 +1,16 @@
+{
+  "id": "yozai",
+  "display_name": "悠哉字体",
+  "style_label": "日常",
+  "upstream": "https://github.com/lxgw/yozai-font",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/yozai/OFL.txt",
+  "version": "0.868",
+  "download_date": "2026-08-14",
+  "sha256": "25071998a0fe6a72f54c235e714986d259633e5ff670b1a2b5e264387f3316ac",
+  "file": "assets/fonts/files/yozai.ttf",
+  "provenance": "官方 GitHub 仓库发布版 TTF，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": true,
+  "status": "approved"
+}

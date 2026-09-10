@@ -1,0 +1,16 @@
+{
+  "id": "zcool-qingke-huangyou",
+  "display_name": "站酷庆科黄油体",
+  "style_label": "圆润",
+  "upstream": "https://github.com/googlefonts/zcool-qingke-huangyou",
+  "license": "OFL-1.1",
+  "license_file": "LICENSES/fonts/zcool-qingke-huangyou/OFL.txt",
+  "version": "1.000",
+  "download_date": "2026-08-14",
+  "sha256": "54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136",
+  "file": "assets/fonts/files/zcool-qingke-huangyou.ttf",
+  "provenance": "官方 GitHub 仓库发布版 TTF，未改动字形，仅复制入库",
+  "modified": true,
+  "reserved_name": false,
+  "status": "pending"
+}
